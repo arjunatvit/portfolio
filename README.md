@@ -1,2 +1,2 @@
 # portfolio
-My portfolio website
+Dumb BS created using AI.
